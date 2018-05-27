@@ -1,0 +1,4 @@
+# Create the hello-world executable
+ 
+gcc hello-world.c -o hello-world
+
